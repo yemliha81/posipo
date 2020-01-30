@@ -1,3 +1,4 @@
+<?php include("lang_tr.php");?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

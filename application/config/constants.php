@@ -104,6 +104,7 @@ define('ORDER_DETAILS', FATHER_BASE.'report/order_details/');
 
 
 define('GET_CAT_PRODUCTS', FATHER_BASE.'welcome/get_cat_products/');
+define('SETTINGS', FATHER_BASE.'settings/');
 
 
 

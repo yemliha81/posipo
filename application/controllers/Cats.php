@@ -46,6 +46,12 @@ class Cats extends CI_Controller {
 		
 	}
 	
+	public function add_category(){
+		
+		$this->load->view("category/add_category.php");
+		
+	}
+	
 	
 	
 	public function test(){
